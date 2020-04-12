@@ -1,0 +1,21 @@
+Extract the project folder in your server folder such as xampp/htdocs 
+Open project folder and then open database folder where you will see project.sql file
+Open your phpmyadmin create a database with name project_inv 
+select your database
+click on import file and then select project.sql file then click on go
+ 
+
+Now run 
+
+http://localhost/public_html/
+
+
+
+
+
+@Copyright2020 Ananth.
+
+
+
+
+
