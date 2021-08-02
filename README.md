@@ -1,6 +1,6 @@
 # Inventory-Management-System
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Ananth9911/Inventory-Management-System"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Ananth9911/Inventory-Management-System"> <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Ananth9911/Inventory-Management-System"> 
+ <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Ananth9911/Inventory-Management-System"> 
 
 ## WorkFlow
 
